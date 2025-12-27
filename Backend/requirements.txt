@@ -1,0 +1,10 @@
+Flask==3.1.2
+flask-cors==6.0.2
+Flask-SQLAlchemy==3.1.1
+numpy==2.2.6
+pandas==2.3.3
+scikit-learn==1.8.0
+# Optional (use for production on *nix):
+# gunicorn==21.0.0
+# If you use joblib instead of pickle for models add:
+# joblib==1.5.3
